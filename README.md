@@ -1,5 +1,6 @@
 My first readme
-Create a new directory called 0x01-git in your alx-pre_course repo.
+
+# 1. Create a new directory called 0x01-git in your alx-pre_course repo.
 
 Make sure you include a non empty README.md in your directory:
 
@@ -11,7 +12,7 @@ Repo:
 
 GitHub repository: alx-pre_course
     
-2. Coding fury road
+#  2. Coding fury road
 mandatory
 Score: 50.00% (Checks completed: 100.00%)
 For the moment we have an empty project directory containing only a README.md. It’s time to code!
@@ -31,7 +32,7 @@ GitHub repository: alx-pre_course
 Directory: 0x01-git
 File: bash/alx, bash/school, c/c_is_fun.c, js/main.js, js/index.js
      
-3. Collaboration is the base of a company
+# 3. Collaboration is the base of a company
 mandatory
 Score: 50.00% (Checks completed: 100.00%)
 A branch is like a copy of your project. It’s used mainly for:
